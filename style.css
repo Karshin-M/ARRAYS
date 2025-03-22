@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(10, 46, 246);
+    background-size: cover;
+}
+
+input {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.order1 {
+    display: flexbox;
+    padding: 30px;
+}
+
+.order2 {
+    display: flexbox;
+    padding: 30px;
+}
+
+#sort {
+    width: 60px;
+    height: 40px;
+    font-size: medium;
+}
+
+#max {
+    width: 60px;
+    height: 40px;
+    font-size: large;
+}
+
+#even {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+}
+
+#odd {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+}
+
+#min {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+}
+
+#sum {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+}
+
+#avg {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+}
+
+#rev {
+    height: 40px;
+    width: 90px;
+    font-size: medium;
+}
+
+button:hover {
+    background-color: black;
+    color: rgb(234, 4, 4);
+}
+
+#message {
+    font-size: 1.5em;
+    color: rgb(231, 19, 54);
+    padding: 20px 14px 14px;
+}
